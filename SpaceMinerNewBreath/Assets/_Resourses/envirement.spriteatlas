@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: envirement
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+    - {fileID: 2800000, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+    - {fileID: 2800000, guid: 9d432f2d4a8255a49bb9092e18311ca5, type: 3}
+    - {fileID: 2800000, guid: b35bef238200cc043a2cf698b3e929b1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -7826164683333279606, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -8625914026871510708, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 7747738615790539874, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -1389240016832425011, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -3127430617056588317, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -2591406618519052691, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -8476262683517290511, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -6036777470617715247, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 8466831207637843117, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -8960725784921344421, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -2435852731711194153, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 5950618184325378841, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -627534077533868077, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -576128995811479630, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -1964119478829141817, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -8923532276323763918, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -7311290459244024777, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 3515413241591415510, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -1630403198510269373, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -6736135716874152885, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -6425986920478838035, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -7640974175692156324, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 8716788549150279157, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 4729891304773673636, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 6130723921545768580, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 4072786343104773080, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 7941627323248525159, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 2709500875407113718, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 6174832643052798006, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -3307486682675366436, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 7410025507682296832, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -6406898304802863164, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 6104743836382302206, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -3985646770153546020, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 4433272532189835621, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 7240394365164873261, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 44508059323422877, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -940536246910088072, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -9062108773501558596, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 1167204475883122658, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 9020889979224845677, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 4868404479456561894, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -4696248638379678328, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 455227912637866532, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -4547164587813911274, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 3876525094488722558, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 7033915439012759773, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -8736622171694584637, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -9188148692186762319, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 5388601879648493259, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 6350590078851950400, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 3162359384634259519, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -1517657177279261343, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 1142895538267927178, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -901492196520595903, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 2101645837364328906, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 510586035853371442, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -487031019759288964, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 1496293849260844978, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -1856838602483386016, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -2613911414678224390, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: -6099638289387799650, guid: 10ed86619e0865146aa2adc3f39234aa, type: 3}
+  - {fileID: 1961183383047197949, guid: b35bef238200cc043a2cf698b3e929b1, type: 3}
+  - {fileID: 876784968147787122, guid: b35bef238200cc043a2cf698b3e929b1, type: 3}
+  - {fileID: 2731795287329381114, guid: b35bef238200cc043a2cf698b3e929b1, type: 3}
+  - {fileID: 3229708652140166120, guid: b35bef238200cc043a2cf698b3e929b1, type: 3}
+  - {fileID: -5004791727209759167, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: 6193290335882477365, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: -449137561210389587, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: 2771832032555197376, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: 4816342424261837737, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: 2739380687204865531, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: 8980415328753738973, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: 616466274194406914, guid: c6282ed45137d2a47ac0d2d8f474c356, type: 3}
+  - {fileID: -693391484, guid: 9d432f2d4a8255a49bb9092e18311ca5, type: 3}
+  - {fileID: -1946508171, guid: 9d432f2d4a8255a49bb9092e18311ca5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - venera_Upper
+  - venera_fuelGas_10
+  - venera_ThirdOre
+  - mars_gas11
+  - mars_gas10
+  - _sand
+  - venera_fuelGas_9
+  - venera_fuelGas_8
+  - venera_fuelGas_7
+  - venera_SixthOre
+  - venera_fuelGas_6
+  - venera_fuelGas_5
+  - venera_fuelGas_3
+  - venera_fuelGas_2
+  - venera_fuelGas_1
+  - mars_SixthOre
+  - venera_FourthOre
+  - moon_eighth_ore
+  - moon_fivth_ore
+  - mars_FivthOre
+  - moon_first_back
+  - mars_SeventhOre
+  - mars_Upper
+  - mars_ThirdOre
+  - _building
+  - moon_third_ore
+  - mars_SecondOre
+  - mars_FirstOre
+  - moon_fourth_ore
+  - venera_gas2
+  - venera_gas3
+  - venera_gas1
+  - venera_gas6
+  - venera_gas7
+  - venera_gas4
+  - venera_gas5
+  - venera_gas8
+  - venera_EigthOre
+  - mars_gas2
+  - mars_gas3
+  - mars_gas1
+  - mars_gas6
+  - moon_seventh_ore
+  - mars_gas7
+  - mars_gas4
+  - mars_gas5
+  - mars_gas8
+  - mars_gas9
+  - moon_first_ore
+  - venera_SeventhOre
+  - moon_sixth_ore
+  - mars_FourthOre
+  - venera_FivthOre
+  - venera_SecondOre
+  - moon_upper_ground
+  - _normalMap_0
+  - _normalMap_1
+  - mars_EigthOre
+  - venera_FirstOre
+  - mars_back
+  - venera_back
+  - moon_second_ore
+  - enemies_
+  - prj
+  - enemies_0
+  - enemies_1
+  - fire
+  - machineFalling
+  - building
+  - gasHealth
+  - smoke
+  - exp
+  - gasFuel
+  - blockDestroyed
+  - circlecurference_0
+  - circlecurference_1
+  m_RenderDataMap: {}
+  m_Tag: envirement
+  m_IsVariant: 0

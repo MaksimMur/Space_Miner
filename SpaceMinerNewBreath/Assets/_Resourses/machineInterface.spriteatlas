@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: machineInterface
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ac6511341c035db499f9f24013fe910a, type: 3}
+    - {fileID: 2800000, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+    - {fileID: 2800000, guid: 1f11fa1c76a3f154c8ec0cf31cbf072c, type: 3}
+    - {fileID: 2800000, guid: a52ecf99925083f4d8979469f281eba5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5726705812037286956, guid: ac6511341c035db499f9f24013fe910a, type: 3}
+  - {fileID: -4361796143555853834, guid: ac6511341c035db499f9f24013fe910a, type: 3}
+  - {fileID: 42941206341023244, guid: ac6511341c035db499f9f24013fe910a, type: 3}
+  - {fileID: 6164935900830281821, guid: ac6511341c035db499f9f24013fe910a, type: 3}
+  - {fileID: -4749140598178888764, guid: a52ecf99925083f4d8979469f281eba5, type: 3}
+  - {fileID: 6259983639586318526, guid: a52ecf99925083f4d8979469f281eba5, type: 3}
+  - {fileID: -8122164587498115561, guid: a52ecf99925083f4d8979469f281eba5, type: 3}
+  - {fileID: -3935539791235424085, guid: a52ecf99925083f4d8979469f281eba5, type: 3}
+  - {fileID: 21300000, guid: 1f11fa1c76a3f154c8ec0cf31cbf072c, type: 3}
+  - {fileID: -6843224994354415413, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 5924529058038472326, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -7132391416864274737, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 5727420382670281787, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 2471199704430313024, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -8479096389772705900, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -3739223857635627947, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -7601747118196972757, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -7772148691211395609, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 4735151441356245744, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 4797025216972129071, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -7179345059743587951, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -8672801738306018392, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 6010072894966840300, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 2390321310953914960, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -6551963266659837371, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 4086181320659218457, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: -3585855935788346183, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 7668252864594692741, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  - {fileID: 546467191821250859, guid: 46748d3cd60951d439284a37e27ef864, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Inventory
+  - main
+  - BigMain
+  - stats
+  - slider_1
+  - slider_0
+  - slider_2
+  - longCapsule
+  - block
+  - allLittleBlocks_16
+  - allLittleBlocks_17
+  - allLittleBlocks_14
+  - allLittleBlocks_15
+  - allLittleBlocks_18
+  - allLittleBlocks_19
+  - lB_marsStone
+  - lB_cuprum
+  - lB_Pl
+  - lB_IR
+  - lB_Al
+  - lB_Fe
+  - lB_Au
+  - lB_La
+  - lB_Ur
+  - lB_Ti
+  - lB_moonStone
+  - lB_Si
+  - lB_Sc
+  - lB_W
+  m_RenderDataMap: {}
+  m_Tag: machineInterface
+  m_IsVariant: 0

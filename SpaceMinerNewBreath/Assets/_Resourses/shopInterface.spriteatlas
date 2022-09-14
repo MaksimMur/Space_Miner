@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shopInterface
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 0
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+    - {fileID: 2800000, guid: c72740b972b904942b1af6d24e50b9ea, type: 3}
+    - {fileID: 2800000, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 7548651774914776704, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: -4796236040745442301, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: -2890350738851601496, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 5246536655980139298, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: -2079680042113892336, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 3892570590488005832, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 6313750642456019619, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 5733689933466528551, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 7658389479363428415, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 6781896286896943616, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: -8449196377037548880, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 1744204918225535122, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: -6480056307556197521, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 2745355783494720900, guid: 2409e30490bc8dc4588ae38bfeed3d05, type: 3}
+  - {fileID: 21300000, guid: c72740b972b904942b1af6d24e50b9ea, type: 3}
+  - {fileID: 6099581493293703690, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -2693009140137883590, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -5428206428529569624, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -732356172534689064, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 6761164967045977113, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -7833671090200325546, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -956252262595852801, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 8132948862792318974, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 2614870373251885436, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -68751727340038015, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -6338023803479276477, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 6395214293025444372, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -7583409310137716746, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 5860025163644826426, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 7911235102323647998, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 6738218706411903907, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -4058434812019303673, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 8436657204533251546, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 6191716412420617325, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 5508725064705088119, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 1122774824596591943, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: -4538752222985096420, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  - {fileID: 4533227004153260592, guid: fc6fb63a2ebfeee43a77c953c14e5d0e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - magnite_gun
+  - motorX
+  - motorY
+  - LeftMask
+  - systemFreeze
+  - panel
+  - capsule
+  - armor
+  - rigthMask
+  - fue_barrels
+  - containers_Items
+  - circle
+  - contaiers_ore
+  - bur
+  - secondBlock
+  - Fuel
+  - movementHandle
+  - RepairKit
+  - Plate
+  - electroMagnite
+  - plateUI
+  - drillingHandle
+  - arrowAnim
+  - joystickback
+  - TNT
+  - arrowLeft
+  - arrowRight
+  - TNTRadius
+  - BuildHandle
+  - prj_0
+  - gasVacuum
+  - prj_1
+  - prj_2
+  - prj_3
+  - lamp
+  - gun_2
+  - gun_0
+  - gun_1
+  m_RenderDataMap: {}
+  m_Tag: shopInterface
+  m_IsVariant: 0

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OreInfo
+  - indicator
+  - LocalizationManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - LittleBlock
+  - Machine
+  - Magnite
+  - Block
+  - MachineProjectile
+  - CheckFallen
+  - Lamp
+  - BuildingPointer
+  - Plate
+  - Sand
+  - EnemyProjectile
+  - Enemy2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 2804321295
+    locked: 0
+  - name: LittleBlock
+    uniqueID: 2690668505
+    locked: 0
+  - name: Block
+    uniqueID: 2870570443
+    locked: 0
+  - name: building
+    uniqueID: 358093009
+    locked: 0
+  - name: Machine
+    uniqueID: 1463169647
+    locked: 0
+  - name: Projectile
+    uniqueID: 366504505
+    locked: 0
+  - name: particles
+    uniqueID: 1365663025
+    locked: 0
+  - name: enemy
+    uniqueID: 2929236201
+    locked: 0
+  - name: flyText
+    uniqueID: 1075248515
+    locked: 0

@@ -1,0 +1,550 @@
+{
+	"items": [
+		{
+			"key": "Options",
+			"value": "Options"
+		},
+		{
+			"key": "Missions",
+			"value": "Missions"
+		},
+		{
+			"key": "All",
+			"value": "ALL"
+		},
+		{
+			"key": "Sell_All",
+			"value": "Sell everything"
+		},
+		{
+			"key": "SaleOre",
+			"value": "Sale of ore"
+		},
+		{
+			"key": "ImproveModels",
+			"value": "Module improvements"
+		},
+		{
+			"key": "BuyItems",
+			"value": "Buying items"
+		},
+		{
+			"key": "Garage",
+			"value": "Garage"
+		},
+		{
+			"key": "Ore",
+			"value": "Ore"
+		},
+		{
+			"key": "Stone",
+			"value": "Stone"
+		},
+		{
+			"key": "Ferrum",
+			"value": "Ferrum"
+		},
+		{
+			"key": "Silicon",
+			"value": "Silicon"
+		},
+		{
+			"key": "Cuprum",
+			"value": "Cuprum"
+		},
+		{
+			"key": "Aluminum",
+			"value": "Aluminum"
+		},
+		{
+			"key": "Titan",
+			"value": "Titan"
+		},
+		{
+			"key": "Scandium",
+			"value": "Scandium"
+		},
+		{
+			"key": "Lanthanum",
+			"value": "Lanthanum"
+		},
+		{
+			"key": "Iridium",
+			"value": "Iridium"
+		},
+		{
+			"key": "Aurum",
+			"value": "Aurum"
+		},
+		{
+			"key": "Wolfram",
+			"value": "Wolfram"
+		},
+		{
+			"key": "Platinum",
+			"value": "Platinum"
+		},
+		{
+			"key": "Uranium",
+			"value": "Uranium"
+		},
+		{
+			"key": "Plumbum",
+			"value": "Plumbum"
+		},
+		{
+			"key": "Osmium",
+			"value": "Osmium"
+		},
+		{
+			"key": "Rhenium",
+			"value": "Rhenium"
+		},
+		{
+			"key": "Thallium",
+			"value": "Thallium"
+		},
+		{
+			"key": "Visput",
+			"value": "Visput"
+		},
+		{
+			"key": "MineStone",
+			"value": "Get a stone"
+		},
+		{
+			"key": "MineFerrum",
+			"value": "Get a ferrum"
+		},
+		{
+			"key": "MineSilicon",
+			"value": "Get a silicon"
+		},
+		{
+			"key": "MineCuprum",
+			"value": "Get a cuprum"
+		},
+		{
+			"key": "MineAluminum",
+			"value": "Get a aluminum"
+		},
+		{
+			"key": "MineTitan",
+			"value": "Get a titan"
+
+		},
+		{
+			"key": "MineScandium",
+			"value": "Get a scandium"
+		},
+		{
+			"key": "MineLanthanum",
+			"value": "Get a lanthanum"
+		},
+		{
+			"key": "Bur",
+			"value": "Bur"
+		},
+		{
+			"key": "Engine",
+			"value": "Engine"
+		},
+		{
+			"key": "Rocketengine",
+			"value": "Rocket engine"
+		},
+		{
+			"key": "Electromagneticgun",
+			"value": "Electromagnetic gun"
+		},
+		{
+			"key": "Armor",
+			"value": "Armor"
+		},
+		{
+			"key": "Coolingsystem",
+			"value": "Cooling system"
+		},
+		{
+			"key": "Fueltanks",
+			"value": "Fuel tanks"
+		},
+		{
+			"key": "Orecontainers",
+			"value": "Ore containers"
+		},
+		{
+			"key": "Itemcontainers",
+			"value": "Item containers"
+		},
+		{
+			"key": "BurDescription",
+			"value": "Upgrading of bur will allow mine new types of ore and will speed up the process of mining."
+		},
+		{
+			"key": "EngineDescription",
+			"value": "Upgrading of main engine will allow move to faster on the surfaces."
+		},
+		{
+			"key": "RocketengineDescription",
+			"value": "Upgrading of rocket engine will allow move to faster through the air."
+		},
+		{
+			"key": "ElectromagneticgunDescription",
+			"value": "Upgrading the electromagnetic gun increases projectile damage and reduces the delay between shots."
+		},
+		{
+			"key": "ArmorDescription",
+			"value": "Upgrading armor increases resistance to pressure, and also reduces damage from enemies, falls, and more..."
+		},
+		{
+			"key": "CoolingsystemDescription",
+			"value": "Upgrafing system cold increases resistance to temperature."
+		},
+		{
+			"key": "FueltanksDescription",
+			"value": "Upgrading the fuel tanks will increase the amount of fuel the ship has and reduce fuel consumption in general."
+		},
+		{
+			"key": "OrecontainersDescription",
+			"value": "Upgrading ore containers increases the amount of ore that can be transported."
+		},
+		{
+			"key": "ItemcontainersDescription",
+			"value": "Upgrading item containers increases the amount of items that can be transported."
+		},
+		{
+			"key": "Upgrade",
+			"value": "Upgrade"
+		},
+		{
+			"key": "Buy",
+			"value": "Buy"
+		},
+		{
+			"key": "Model",
+			"value": "Model"
+		},
+		{
+			"key": "Explosives",
+			"value": "Explosives"
+		},
+		{
+			"key": "Fuel",
+			"value": "Fuel"
+		},
+		{
+			"key": "RepairKit",
+			"value": "Repair Kit"
+		},
+		{
+			"key": "MagniteImpulse",
+			"value": "Charge for gun"
+		},
+		{
+			"key": "Lamp",
+			"value": "Lamp"
+		},
+		{
+			"key": "Plate",
+			"value": "Plate"
+		},
+		{
+			"key": "VacuumCleaner",
+			"value": "Vacuum cleaner"
+		},
+		{
+			"key": "ExplosivesDescription",
+			"value": "Explosives allows to Destroy any ore in a give radius. Be careful it also can apply damage..."
+		},
+		{
+			"key": "FuelDescription",
+			"value": "This item top it your stock of fuel."
+		},
+		{
+			"key": "RepairKitDescription",
+			"value": "Repair Kit fix your machine with any damage."
+		},
+		{
+			"key": "MagniteImpulseDescription",
+			"value": "This charge used by electromagnetic gun."
+		},
+		{
+			"key": "LampDescription",
+			"value": "This item illuminates all objects in a given radius for a certain amount of time."
+		},
+		{
+			"key": "PlateDescription",
+			"value": "This item allows mine hard-to-reach ore."
+		},
+		{
+			"key": "VacuumCleanerDescription",
+			"value": "This item allows clean gas around the machine."
+		},
+		{
+			"key": "Item",
+			"value": "Item"
+		},
+		{
+			"key": "Health",
+			"value": "Health"
+		},
+		{
+			"key": "AmountOfOre",
+			"value": "Amount of ore:"
+		},
+		{
+			"key": "AmountOfItems",
+			"value": "Amount of items:"
+		},
+		{
+			"key": "MaxDepth",
+			"value": "Maximum depth reached:"
+		},
+		{
+			"key": "AmountMinedOre",
+			"value": "Total ore mined:"
+		},
+		{
+			"key": "AmountMissionsSuccesed",
+			"value": "Total missions completed:"
+		},
+		{
+			"key": "AmountUsedItems",
+			"value": "Total items used:"
+		},
+		{
+			"key": "AmounKilledEnemies",
+			"value": "Total enemies destroyed:"
+		},
+		{
+			"key": "LevelOfBurAllowsMinedOreNextLevel",
+			"value": "The level of the bur allows you to mine:"
+		},
+		{
+			"key": "LevelOfTemperatureAndPreasure",
+			"value": "The level of pressure and temperature protection allows you to go down to depth:"
+		},
+		{
+			"key": "LevelOfArmor",
+			"value": "Your defense level blocks damage for:"
+		},
+		{
+			"key": "LevelOfGunFireRate",
+			"value": "Delay of your weapon before the next shot in seconds:"
+		},
+		{
+			"key": "LevelOfGunDamage",
+			"value": "Your weapon is capable of dealing damage equal to:"
+		},
+		{
+			"key": "HealthReplenishment",
+			"value": "Health replenishment:"
+		},
+		{
+			"key": "FuelReplenishment",
+			"value": "Fuel replenishment:"
+		},
+		{
+			"key": "ReplenishOn",
+			"value": "Replenish on"
+		},
+		{
+			"key": "NotEnoughMoney",
+			"value": "Not enough money"
+		},
+		{
+			"key": "Default",
+			"value": "Default"
+		},
+		{
+			"key": "ImpossibleToDestroyBlock",
+			"value": "You can't destroy this block"
+		},
+		{
+			"key": "ImproveYourBur",
+			"value": "You must improve your bur"
+		},
+		{
+			"key": "YouTakeDamageFromTemperature",
+			"value": "Cooling system fails"
+		},
+		{
+			"key": "YouTakeDamageFromPreasure",
+			"value": "Armor fails"
+		},
+		{
+			"key": "MissionComplete",
+			"value": "One mission was completed"
+		},
+		{
+			"key": "Mining",
+			"value": "Mining"
+		},
+		{
+			"key": "Buidling",
+			"value": "Buidling"
+		},
+		{
+			"key": "Destruction",
+			"value": "Destruction"
+		},
+		{
+			"key": "BuidlingPlates",
+			"value": "Build the plates"
+		},
+		{
+			"key": "BuidlingLamps",
+			"value": "Build the lamps"
+		},
+		{
+			"key": "DestroyedSlime",
+			"value": "Destroy slimes"
+		},
+		{
+			"key": "DestroyedGhost",
+			"value": "Destroy ghosts"
+		},
+		{
+			"key": "StartGame",
+			"value": "Start Game"
+		},
+		{
+			"key": "LoadGame",
+			"value": "Load Game"
+		},
+		{
+			"key": "Training",
+			"value": "Training"
+		},
+		{
+			"key": "ShopSkin",
+			"value": "Skin shop"
+		},
+		{
+			"key": "M&S",
+			"value": "Music & Sounds"
+		},
+		{
+			"key": "Localization",
+			"value": "Localization"
+		},
+		{
+			"key": "Records",
+			"value": "Records"
+		},
+		{
+			"key": "Moon",
+			"value": "Moon"
+		},
+		{
+			"key": "Mars",
+			"value": "Mars"
+		},
+		{
+			"key": "Venera",
+			"value": "Venera"
+		},
+		{
+			"key": "SaveGame",
+			"value": "Save game"
+		},
+		{
+			"key": "YourMissions",
+			"value": "Your missions:"
+		},
+		{
+			"key": "YourInventory",
+			"value": "Your inventory:"
+		},
+		{
+			"key": "UsingItem",
+			"value": "Trinket lover:"
+		},
+		{
+			"key": "UsingTNT",
+			"value": "Use explosives:"
+		},
+		{
+			"key": "Seconds",
+			"value": "s."
+		},
+		{
+			"key": "Description",
+			"value": "Description"
+		},
+		{
+			"key": "Back",
+			"value": "Back"
+		},
+		{
+			"key": "GameEndFuelLack",
+			"value": "Game over:\n You've' run out of fuel"
+		},
+		{
+			"key": "GameEndHealthLack",
+			"value": "Game over:\n You've run out of health"
+		},
+		{
+			"key": "GameEndByVictory",
+			"value": "You have pass the level!!!"
+		},
+		{
+			"key": "On",
+			"value": "On"
+		},
+		{
+			"key": "Off",
+			"value": "Off"
+		},
+		{
+			"key": "HDR",
+			"value": "HDR"
+		},
+		{
+			"key": "MSAA",
+			"value": "MSAA"
+		},
+		{
+			"key": "RS",
+			"value": "Renderer scale"
+		},
+		{
+			"key": "GasLeak",
+			"value": "There was a gas leak"
+
+		},
+		{
+			"key": "ExpLight",
+			"value": "Explosives light"
+		},
+		{
+			"key": "BuildingsLight",
+			"value": "Buildings light"
+		},
+		{
+			"key": "Graphics",
+			"value": "Graphics"
+		},
+		{
+			"key": "Other",
+			"value": "Other"
+		},
+		{
+			"key": "IncludeHints",
+			"value": "Turn on hints"
+		},
+		{
+			"key": "Yes",
+			"value": "Yes"
+		},
+		{
+			"key": "No",
+			"value": "No"
+		},
+		{
+			"key": "JoystickLeft",
+			"value": "Joystick left"
+		}
+	]
+}

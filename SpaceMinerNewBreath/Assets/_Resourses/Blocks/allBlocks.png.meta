@@ -1,0 +1,1816 @@
+fileFormatVersion: 2
+guid: 10ed86619e0865146aa2adc3f39234aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6130723921545768580
+    second: _building
+  - first:
+      213: -2591406618519052691
+    second: _sand
+  - first:
+      213: 2101645837364328906
+    second: _normalMap_0
+  - first:
+      213: 510586035853371442
+    second: _normalMap_1
+  - first:
+      213: -901492196520595903
+    second: moon_upper_ground
+  - first:
+      213: 8941271239238824289
+    second: allBlocks_18
+  - first:
+      213: -9188148692186762319
+    second: moon_first_ore
+  - first:
+      213: -6099638289387799650
+    second: moon_second_ore
+  - first:
+      213: 4072786343104773080
+    second: moon_third_ore
+  - first:
+      213: 6174832643052798006
+    second: moon_fourth_ore
+  - first:
+      213: 4733395594489472875
+    second: allBlocks_23
+  - first:
+      213: -1630403198510269373
+    second: moon_fivth_ore
+  - first:
+      213: 6350590078851950400
+    second: moon_sixth_ore
+  - first:
+      213: -4696248638379678328
+    second: moon_seventh_ore
+  - first:
+      213: 4117095783305646043
+    second: allBlocks_27
+  - first:
+      213: 3515413241591415510
+    second: moon_eighth_ore
+  - first:
+      213: -6425986920478838035
+    second: moon_first_back
+  - first:
+      213: 1162099760077261987
+    second: allBlocks_30
+  - first:
+      213: 3602929569414174304
+    second: allBlocks_31
+  - first:
+      213: -8555084991804296991
+    second: allBlocks_32
+  - first:
+      213: -1905599998842476823
+    second: allBlocks_33
+  - first:
+      213: 8437067451281323859
+    second: allBlocks_34
+  - first:
+      213: -450955251429976060
+    second: allBlocks_35
+  - first:
+      213: -1953601068595291289
+    second: allBlocks_36
+  - first:
+      213: 3967373649008622244
+    second: allBlocks_37
+  - first:
+      213: 7969044351301674133
+    second: allBlocks_38
+  - first:
+      213: -2363629264383521850
+    second: allBlocks_39
+  - first:
+      213: 4433860780914528668
+    second: allBlocks_40
+  - first:
+      213: 2457610653799477599
+    second: allBlocks_41
+  - first:
+      213: 4898037612678294953
+    second: allBlocks_42
+  - first:
+      213: 8716788549150279157
+    second: mars_Upper
+  - first:
+      213: 2709500875407113718
+    second: mars_FirstOre
+  - first:
+      213: 7941627323248525159
+    second: mars_SecondOre
+  - first:
+      213: 7376439009726757885
+    second: allBlocks_46
+  - first:
+      213: 4729891304773673636
+    second: mars_ThirdOre
+  - first:
+      213: 3162359384634259519
+    second: mars_FourthOre
+  - first:
+      213: -8800258471628193555
+    second: allBlocks_49
+  - first:
+      213: -6736135716874152885
+    second: mars_FivthOre
+  - first:
+      213: -8923532276323763918
+    second: mars_SixthOre
+  - first:
+      213: 4281243583849094461
+    second: allBlocks_52
+  - first:
+      213: -7640974175692156324
+    second: mars_SeventhOre
+  - first:
+      213: -487031019759288964
+    second: mars_EigthOre
+  - first:
+      213: -1856838602483386016
+    second: mars_back
+  - first:
+      213: -7826164683333279606
+    second: venera_Upper
+  - first:
+      213: 1496293849260844978
+    second: venera_FirstOre
+  - first:
+      213: 1470068730146592402
+    second: allBlocks_58
+  - first:
+      213: 1142895538267927178
+    second: venera_SecondOre
+  - first:
+      213: 7747738615790539874
+    second: venera_ThirdOre
+  - first:
+      213: -7311290459244024777
+    second: venera_FourthOre
+  - first:
+      213: -4422335682772745737
+    second: allBlocks_62
+  - first:
+      213: -1517657177279261343
+    second: venera_FivthOre
+  - first:
+      213: -8960725784921344421
+    second: venera_SixthOre
+  - first:
+      213: 5388601879648493259
+    second: venera_SeventhOre
+  - first:
+      213: -3509176296570089539
+    second: allBlocks_66
+  - first:
+      213: -940536246910088072
+    second: venera_EigthOre
+  - first:
+      213: -2613911414678224390
+    second: venera_back
+  - first:
+      213: 7459381485092516130
+    second: allBlocks_69
+  - first:
+      213: 6094694140615300882
+    second: allBlocks_70
+  - first:
+      213: -8395368235077172614
+    second: allBlocks_71
+  - first:
+      213: -5567046381464621129
+    second: allBlocks_72
+  - first:
+      213: -1151217465050893699
+    second: allBlocks_73
+  - first:
+      213: 1241458590571687482
+    second: allBlocks_74
+  - first:
+      213: 5878309152481892445
+    second: allBlocks_75
+  - first:
+      213: 7870835205265576736
+    second: allBlocks_76
+  - first:
+      213: 6056718942724782478
+    second: allBlocks_77
+  - first:
+      213: -2331282586985548395
+    second: allBlocks_78
+  - first:
+      213: -6367490164787872302
+    second: allBlocks_79
+  - first:
+      213: -1964119478829141817
+    second: venera_fuelGas_1
+  - first:
+      213: -576128995811479630
+    second: venera_fuelGas_2
+  - first:
+      213: -627534077533868077
+    second: venera_fuelGas_3
+  - first:
+      213: 5950618184325378841
+    second: venera_fuelGas_5
+  - first:
+      213: -4097895717231573892
+    second: allBlocks_84
+  - first:
+      213: -2435852731711194153
+    second: venera_fuelGas_6
+  - first:
+      213: 8466831207637843117
+    second: venera_fuelGas_7
+  - first:
+      213: -6036777470617715247
+    second: venera_fuelGas_8
+  - first:
+      213: -8476262683517290511
+    second: venera_fuelGas_9
+  - first:
+      213: 509225563164854014
+    second: allBlocks_89
+  - first:
+      213: -8625914026871510708
+    second: venera_fuelGas_10
+  - first:
+      213: 6612189931158289380
+    second: allBlocks_91
+  - first:
+      213: 1266499614800138346
+    second: allBlocks_92
+  - first:
+      213: 4117170006905254594
+    second: allBlocks_93
+  - first:
+      213: 9020889979224845677
+    second: mars_gas1
+  - first:
+      213: -9062108773501558596
+    second: mars_gas2
+  - first:
+      213: -2663835756950898257
+    second: allBlocks_96
+  - first:
+      213: 1167204475883122658
+    second: mars_gas3
+  - first:
+      213: -4547164587813911274
+    second: mars_gas4
+  - first:
+      213: 6126689350301755382
+    second: allBlocks_99
+  - first:
+      213: 3876525094488722558
+    second: mars_gas5
+  - first:
+      213: 4868404479456561894
+    second: mars_gas6
+  - first:
+      213: 455227912637866532
+    second: mars_gas7
+  - first:
+      213: -8366906750158392504
+    second: allBlocks_103
+  - first:
+      213: 7033915439012759773
+    second: mars_gas8
+  - first:
+      213: -8736622171694584637
+    second: mars_gas9
+  - first:
+      213: -3127430617056588317
+    second: mars_gas10
+  - first:
+      213: -1389240016832425011
+    second: mars_gas11
+  - first:
+      213: -6406898304802863164
+    second: venera_gas1
+  - first:
+      213: -3307486682675366436
+    second: venera_gas2
+  - first:
+      213: -2528204244507114958
+    second: allBlocks_110
+  - first:
+      213: 7410025507682296832
+    second: venera_gas3
+  - first:
+      213: 4433272532189835621
+    second: venera_gas4
+  - first:
+      213: 7240394365164873261
+    second: venera_gas5
+  - first:
+      213: 2971359487906275934
+    second: allBlocks_114
+  - first:
+      213: 6104743836382302206
+    second: venera_gas6
+  - first:
+      213: -3985646770153546020
+    second: venera_gas7
+  - first:
+      213: 44508059323422877
+    second: venera_gas8
+  - first:
+      213: 400153062254987247
+    second: allBlocks_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 235
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _building
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2003
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea9b7bce4b41550800000000000000
+      internalID: 6130723921545768580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _sand
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2012
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e539a0969790cd0800000000000000
+      internalID: -2591406618519052691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _normalMap_0
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2014
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac977cb01cb8a2d10800000000000000
+      internalID: 2101645837364328906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _normalMap_1
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2012
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a05e5b47f51700800000000000000
+      internalID: 510586035853371442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_upper_ground
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1671
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6a92af914d73f0800000000000000
+      internalID: -901492196520595903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_first_ore
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1669
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3fcb202732d7080800000000000000
+      internalID: -9188148692186762319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_second_ore
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1665
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3ba60b4bb95ba0800000000000000
+      internalID: -6099638289387799650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_third_ore
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1663
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db72dab991758830800000000000000
+      internalID: 4072786343104773080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_fourth_ore
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1668
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63006acb29961b550800000000000000
+      internalID: 6174832643052798006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_fivth_ore
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1668
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c7220ede4af59e0800000000000000
+      internalID: -1630403198510269373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_sixth_ore
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1669
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472714a704d12850800000000000000
+      internalID: 6350590078851950400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_seventh_ore
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1665
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885a774ceb293deb0800000000000000
+      internalID: -4696248638379678328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_eighth_ore
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1669
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c2cfb7b149c030800000000000000
+      internalID: 3515413241591415510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moon_first_back
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1659
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de27d8131fe42d6a0800000000000000
+      internalID: -6425986920478838035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_Upper
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1332
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58b4e700148f870800000000000000
+      internalID: 8716788549150279157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_FirstOre
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1332
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd304dc0b41a9520800000000000000
+      internalID: 2709500875407113718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_SecondOre
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1332
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb3c459f3563e60800000000000000
+      internalID: 7941627323248525159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_ThirdOre
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1329
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26e37e413f3a140800000000000000
+      internalID: 4729891304773673636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_FourthOre
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1329
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387f3dfa15f2eb20800000000000000
+      internalID: 3162359384634259519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_FivthOre
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1326
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4415ec41407482a0800000000000000
+      internalID: -6736135716874152885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_SixthOre
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1331
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2393dff6cae392480800000000000000
+      internalID: -8923532276323763918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_SeventhOre
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1328
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529fe7887ec5f590800000000000000
+      internalID: -7640974175692156324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_EigthOre
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1332
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7db6a03ed7bd39f0800000000000000
+      internalID: -487031019759288964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_back
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 1329
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069beb5012f2b36e0800000000000000
+      internalID: -1856838602483386016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_Upper
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1016
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8066307fa0e36390800000000000000
+      internalID: -7826164683333279606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_FirstOre
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1014
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76bc40457e3c410800000000000000
+      internalID: 1496293849260844978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_SecondOre
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1015
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82b6ddcf616cdf00800000000000000
+      internalID: 1142895538267927178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_ThirdOre
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1012
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26495c6c83f758b60800000000000000
+      internalID: 7747738615790539874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_FourthOre
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1012
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cae0f6014198a90800000000000000
+      internalID: -7311290459244024777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_FivthOre
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1016
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165927196d230fae0800000000000000
+      internalID: -1517657177279261343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_SixthOre
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1011
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567414ef5b15a380800000000000000
+      internalID: -8960725784921344421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_SeventhOre
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1010
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce53780cd828ca40800000000000000
+      internalID: 5388601879648493259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_EigthOre
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1011
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8b80444b82f2f0800000000000000
+      internalID: -940536246910088072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_back
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1014
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af104cdda6589bbd0800000000000000
+      internalID: -2613911414678224390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b6f78dbb0eb4e0800000000000000
+      internalID: -1964119478829141817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfaad31bbd2108f0800000000000000
+      internalID: -576128995811479630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2420d41d8a47f0800000000000000
+      internalID: -627534077533868077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913b1bef5b7d49250800000000000000
+      internalID: 5950618184325378841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_6
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db7031a8dc123ed0800000000000000
+      internalID: -2435852731711194153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_7
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf178cf1a308570800000000000000
+      internalID: 8466831207637843117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_8
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddffbbefde093ca0800000000000000
+      internalID: -6036777470617715247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_9
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f77d0e9ff34e5a80800000000000000
+      internalID: -8476262683517290511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_fuelGas_10
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 651
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a34505e89a4880800000000000000
+      internalID: -8625914026871510708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6de39134a3a03d70800000000000000
+      internalID: 9020889979224845677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02d77651cec3280800000000000000
+      internalID: -9062108773501558596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6245694eb23010800000000000000
+      internalID: 1167204475883122658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas4
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615cd1836e935e0c0800000000000000
+      internalID: -4547164587813911274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c43e3e80f2cc530800000000000000
+      internalID: 3876525094488722558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas6
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eacde4841c009340800000000000000
+      internalID: 4868404479456561894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas7
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226f98ef5b415600800000000000000
+      internalID: 455227912637866532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas8
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8cd7213dc7d9160800000000000000
+      internalID: 7033915439012759773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas9
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cca7576c6841c680800000000000000
+      internalID: -8736622171694584637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas10
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed49a27c622994d0800000000000000
+      internalID: -3127430617056588317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mars_gas11
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 339
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc312f0b09d68bce0800000000000000
+      internalID: -1389240016832425011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74c2edfef1617a0800000000000000
+      internalID: -6406898304802863164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bccbc2627912d0800000000000000
+      internalID: -3307486682675366436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004acf170f2b5d660800000000000000
+      internalID: 7410025507682296832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561fba921e5268d30800000000000000
+      internalID: 4433272532189835621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas5
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266469505c0b7460800000000000000
+      internalID: 7240394365164873261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas6
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff8254cc2868b450800000000000000
+      internalID: 6104743836382302206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas7
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde90d0216320b8c0800000000000000
+      internalID: -3985646770153546020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: venera_gas8
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2
+        width: 235
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985d9918df1e9000800000000000000
+      internalID: 44508059323422877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mars_FourthOre: 3162359384634259519
+      venera_fuelGas_1: -1964119478829141817
+      _normalMap_1: 510586035853371442
+      mars_SixthOre: -8923532276323763918
+      mars_gas2: -9062108773501558596
+      mars_gas7: 455227912637866532
+      venera_fuelGas_8: -6036777470617715247
+      venera_gas8: 44508059323422877
+      mars_gas1: 9020889979224845677
+      mars_gas6: 4868404479456561894
+      venera_ThirdOre: 7747738615790539874
+      moon_fourth_ore: 6174832643052798006
+      mars_EigthOre: -487031019759288964
+      venera_FirstOre: 1496293849260844978
+      mars_SeventhOre: -7640974175692156324
+      mars_ThirdOre: 4729891304773673636
+      venera_fuelGas_7: 8466831207637843117
+      venera_SecondOre: 1142895538267927178
+      venera_SixthOre: -8960725784921344421
+      mars_gas4: -4547164587813911274
+      moon_eighth_ore: 3515413241591415510
+      _building: 6130723921545768580
+      mars_gas10: -3127430617056588317
+      venera_SeventhOre: 5388601879648493259
+      mars_gas5: 3876525094488722558
+      venera_FivthOre: -1517657177279261343
+      mars_gas11: -1389240016832425011
+      mars_FivthOre: -6736135716874152885
+      venera_fuelGas_9: -8476262683517290511
+      mars_SecondOre: 7941627323248525159
+      venera_gas3: 7410025507682296832
+      venera_fuelGas_10: -8625914026871510708
+      mars_gas9: -8736622171694584637
+      mars_gas3: 1167204475883122658
+      _normalMap_0: 2101645837364328906
+      mars_FirstOre: 2709500875407113718
+      venera_fuelGas_2: -576128995811479630
+      venera_gas5: 7240394365164873261
+      mars_gas8: 7033915439012759773
+      moon_upper_ground: -901492196520595903
+      moon_seventh_ore: -4696248638379678328
+      _sand: -2591406618519052691
+      moon_third_ore: 4072786343104773080
+      mars_Upper: 8716788549150279157
+      venera_Upper: -7826164683333279606
+      venera_fuelGas_3: -627534077533868077
+      venera_gas1: -6406898304802863164
+      moon_second_ore: -6099638289387799650
+      venera_back: -2613911414678224390
+      venera_fuelGas_6: -2435852731711194153
+      venera_gas4: 4433272532189835621
+      moon_first_ore: -9188148692186762319
+      venera_FourthOre: -7311290459244024777
+      moon_first_back: -6425986920478838035
+      venera_EigthOre: -940536246910088072
+      mars_back: -1856838602483386016
+      moon_fivth_ore: -1630403198510269373
+      venera_gas7: -3985646770153546020
+      venera_gas6: 6104743836382302206
+      moon_sixth_ore: 6350590078851950400
+      venera_fuelGas_5: 5950618184325378841
+      venera_gas2: -3307486682675366436
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

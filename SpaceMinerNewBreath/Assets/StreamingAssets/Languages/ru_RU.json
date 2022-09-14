@@ -1,0 +1,547 @@
+﻿{
+	"items": [
+		{
+			"key": "Options",
+			"value": "Настройки"
+		},
+		{
+			"key": "Missions",
+			"value": "Задания"
+		},
+		{
+			"key": "All",
+			"value": "ВСЁ"
+		},
+		{
+			"key": "Sell_All",
+			"value": "Продать всё"
+		},
+		{
+			"key": "SaleOre",
+			"value": "Продажа руды"
+		},
+		{
+			"key": "ImproveModels",
+			"value": "Улучшение модулей"
+		},
+		{
+			"key": "BuyItems",
+			"value": "Покупка предметов"
+		},
+		{
+			"key": "Garage",
+			"value": "Гараж"
+		},
+		{
+			"key": "Ore",
+			"value": "Руда"
+		},
+
+		{
+			"key": "Stone",
+			"value": "Камень"
+		},
+		{
+			"key": "Ferrum",
+			"value": "Железо"
+		},
+		{
+			"key": "Silicon",
+			"value": "Кремний"
+		},
+		{
+			"key": "Cuprum",
+			"value": "Медь"
+		},
+		{
+			"key": "Aluminum",
+			"value": "Аллюминий"
+		},
+		{
+			"key": "Titan",
+			"value": "Титан"
+		},
+		{
+			"key": "Scandium",
+			"value": "Скандий"
+		},
+		{
+			"key": "Lanthanum",
+			"value": "Лантан"
+		},
+		{
+			"key": "Iridium",
+			"value": "Иридий"
+		},
+		{
+			"key": "Aurum",
+			"value": "Золото"
+		},
+		{
+			"key": "Wolfram",
+			"value": "Вольфрам"
+		},
+		{
+			"key": "Platinum",
+			"value": "Платина"
+		},
+		{
+			"key": "Uranium",
+			"value": "Уран"
+		},
+		{
+			"key": "Plumbum",
+			"value": "Свинец"
+		},
+		{
+			"key": "Osmium",
+			"value": "Осмий"
+		},
+		{
+			"key": "Rhenium",
+			"value": "Рений"
+		},
+		{
+			"key": "Thallium",
+			"value": "Таллий"
+		},
+		{
+			"key": "Visput",
+			"value": "Виспут"
+		},
+		{
+			"key": "Bur",
+			"value": "Бур"
+		},
+		{
+			"key": "Engine",
+			"value": "Двигатель"
+		},
+		{
+			"key": "Rocketengine",
+			"value": "Ракетный двигатель"
+		},
+		{
+			"key": "Electromagneticgun",
+			"value": "Электромагнитная пушка"
+		},
+		{
+			"key": "Armor",
+			"value": "Защита"
+		},
+		{
+			"key": "Coolingsystem",
+			"value": "Система охлаждения"
+		},
+		{
+			"key": "Fueltanks",
+			"value": "Баки с топливом"
+		},
+		{
+			"key": "Orecontainers",
+			"value": "Контейнеры для руды"
+		},
+		{
+			"key": "Itemcontainers",
+			"value": "Контейнеры для предметов"
+		},
+		{
+			"key": "BurDescription",
+			"value": "Улучшение бура позволит добывать новые виды руды и усорит процесс добычи."
+		},
+		{
+			"key": "EngineDescription",
+			"value": "Улучшение основного двигаетль позволит быстрее перемещаться по поверхностям."
+		},
+		{
+			"key": "RocketengineDescription",
+			"value": "Улучшение ракетного двигателя позволит быстрее перемещаться по воздуху."
+		},
+		{
+			"key": "ElectromagneticgunDescription",
+			"value": "Улучшение электромагнитной пушки увеличивает наносимый урон от снарядов и уменьшает задержку между выстрелами."
+		},
+		{
+			"key": "ArmorDescription",
+			"value": "Улучшение защиты увеличивает сопротивление к давлению, а также уменьшает урон от врагов, падений и прочего..."
+		},
+		{
+			"key": "CoolingsystemDescription",
+			"value": "Улучшение системы охлаждения увеличит сопротивление к темепратуре."
+		},
+		{
+			"key": "FueltanksDescription",
+			"value": "Улучшение баков с топливом увеличит количество топлива корабля и снизит рассход топлива в целом."
+		},
+		{
+			"key": "OrecontainersDescription",
+			"value": "Улучшение контейнеров для руды увеличивает количество руды, которою можно перевезти."
+		},
+		{
+			"key": "ItemcontainersDescription",
+			"value": "Улучшение контейнеров для предметов увеличвает количество предметов, которые можно перевезти"
+		},
+		{
+			"key": "Upgrade",
+			"value": "Улучшить"
+		},
+		{
+			"key": "Buy",
+			"value": "Купить"
+		},
+		{
+			"key": "Model",
+			"value": "Модель"
+		},
+		{
+			"key": "Explosives",
+			"value": "Взрывчатка"
+		},
+		{
+			"key": "Fuel",
+			"value": "Топливо"
+		},
+		{
+			"key": "RepairKit",
+			"value": "Набор для починки"
+		},
+		{
+			"key": "MagniteImpulse",
+			"value": "Заряд для оружия"
+		},
+		{
+			"key": "Lamp",
+			"value": "Лампа"
+		},
+		{
+			"key": "Plate",
+			"value": "Плита"
+		},
+		{
+			"key": "VacuumCleaner",
+			"value": "Vacuum cleaner"
+		},
+		{
+			"key": "ExplosivesDescription",
+			"value": "Взрывчатка позволяет добыть любую руду в опредленном радиусе. Берегите вашу попку, ведь урон по игроку никто не отменял:D"
+		},
+		{
+			"key": "FuelDescription",
+			"value": "Позволяет пополнить топливо. Канистра очень полезна в долгих вылазках под земелей, берите не думая."
+		},
+		{
+			"key": "RepairKitDescription",
+			"value": "Позволяет починить машину. Ну, здесь стоит исходить из того, как выиграете осторожно или аккуратно, но одна штучка не помешает. "
+		},
+		{
+			"key": "MagniteImpulseDescription",
+			"value": "Заряд который, выпускается из вашей пушки. Хо-хо этим точно стоит запастись... "
+		},
+		{
+			"key": "LampDescription",
+			"value": "Освещает всё, что находится вокруг вас на некоторое время."
+		},
+		{
+			"key": "PlateDescription",
+			"value": "Позволяет добывать руду в труднодоступных местах."
+		},
+		{
+			"key": "VacuumCleanerDescription",
+			"value": "Очищает территорию вокруг машины от газаю."
+		},
+		{
+			"key": "Item",
+			"value": "Предмет"
+		},
+		{
+			"key": "Health",
+			"value": "Здоровье"
+		},
+		{
+			"key": "AmountOfOre",
+			"value": "Кол-во руды:"
+		},
+		{
+			"key": "AmountOfItems",
+			"value": "Кол-во предметов:"
+		},
+		{
+			"key": "MaxDepth",
+			"value": "Максимально достигнутая глубина:"
+		},
+		{
+			"key": "AmountMinedOre",
+			"value": "Всего добыто руды:"
+		},
+		{
+			"key": "AmountMissionsSuccesed",
+			"value": "Всего выполненно заданий:"
+		},
+		{
+			"key": "AmountUsedItems",
+			"value": "Всего использованно предметов:"
+		},
+		{
+			"key": "AmounKilledEnemies",
+			"value": "Всего уничтоженно врагов:"
+		},
+		{
+			"key": "LevelOfBurAllowsMinedOreNextLevel",
+			"value": "Уровень бура позволяет добывать:"
+		},
+		{
+			"key": "LevelOfTemperatureAndPreasure",
+			"value": "Уровень защиты от давления и температуры позволяет спуститься:"
+
+		},
+		{
+			"key": "LevelOfArmor",
+			"value": "Защита брони от повреждений:"
+		},
+		{
+			"key": "LevelOfGunFireRate",
+			"value": "Задержка вашего оружия перед выстрелом:"
+		},
+		{
+			"key": "LevelOfGunDamage",
+			"value": "Ваше оружие наноист урон, равный::"
+		},
+		{
+			"key": "HealthReplenishment",
+			"value": "Пополнить здоровье:"
+		},
+		{
+			"key": "FuelReplenishment",
+			"value": "Пополнить топливо:"
+		},
+		{
+			"key": "ReplenishOn",
+			"value": "Пополнить на:"
+		},
+		{
+			"key": "NotEnoughMoney",
+			"value": "Недостаточно денег"
+		},
+		{
+			"key": "Default",
+			"value": "По умолчанию"
+		},
+		{
+			"key": "ImpossibleToDestroyBlock",
+			"value": "Вы не можете уничтожить этот блок"
+		},
+		{
+			"key": "ImproveYourBur",
+			"value": "Вы должны улучшить бур"
+		},
+		{
+			"key": "YouTakeDamageFromTemperature",
+			"value": "Система охдаждения не выдреживает"
+		},
+		{
+			"key": "YouTakeDamageFromPreasure",
+			"value": "Защита от давления не выдерживает"
+		},
+		{
+			"key": "MissionComplete",
+			"value": "Одна из миссий была завершена"
+		},
+		{
+			"key": "Mining",
+			"value": "Добыча"
+		},
+		{
+			"key": "Buidling",
+			"value": "Строительство"
+		},
+		{
+			"key": "Destruction",
+			"value": "Уничтожение"
+		},
+		{
+			"key": "BuidlingPlates",
+			"value": "Постройте плиту"
+		},
+		{
+			"key": "DestroyedSlime",
+			"value": "Уничтожте слайма"
+		},
+		{
+			"key": "DestroyedGhost",
+			"value": "Уничтожте призраков"
+		},
+		{
+			"key": "MineStone",
+			"value": "Добудьте камень"
+		},
+		{
+			"key": "MineFerrum",
+			"value": "Добудьте железо"
+		},
+		{
+			"key": "MineSilicon",
+			"value": "Добудьте кремний"
+		},
+		{
+			"key": "MineCuprum",
+			"value": "Добудьте медь"
+		},
+		{
+			"key": "MineAluminum",
+			"value": "Добудьте алюминий"
+		},
+		{
+			"key": "MineTitan",
+			"value": "Добудьте титан"
+
+		},
+		{
+			"key": "MineScandium",
+			"value": "Добудьте скандий"
+		},
+		{
+			"key": "MineLanthanum",
+			"value": "Добудьте лантан"
+		},
+		{
+			"key": "StartGame",
+			"value": "Начать игру"
+		},
+		{
+			"key": "LoadGame",
+			"value": "Загрузить игру"
+		},
+		{
+			"key": "Training",
+			"value": "Тренировка"
+		},
+		{
+			"key": "ShopSkin",
+			"value": "Магазин скинов"
+		},
+		{
+			"key": "M&S",
+			"value": "Музыка и Звуки"
+		},
+		{
+			"key": "Localization",
+			"value": "Локализация"
+		},
+		{
+			"key": "Records",
+			"value": "Рекорды"
+		},
+		{
+			"key": "Moon",
+			"value": "Луна"
+		},
+		{
+			"key": "Mars",
+			"value": "Марс"
+		},
+		{
+			"key": "Venera",
+			"value": "Венера"
+		},
+		{
+			"key": "SaveGame",
+			"value": "Сохранение игры"
+		},
+		{
+			"key": "YourMissions",
+			"value": "Ваши задания:"
+		},
+		{
+			"key": "YourInventory",
+			"value": "Ваш инвентарь:"
+		},
+		{
+			"key": "UsingItem",
+			"value": "А что у нас в карманах?:"
+		},
+		{
+			"key": "UsingTNT",
+			"value": "Используйте взрывчатку:"
+		},
+		{
+			"key": "Seconds",
+			"value": "сек."
+		},
+		{
+			"key": "Description",
+			"value": "Описание"
+		},
+		{
+			"key": "Back",
+			"value": "Назад"
+		},
+		{
+			"key": "GameEndFuelLack",
+			"value": "Игра окончена:\n У вас закончилось топливо"
+		},
+		{
+			"key": "GameEndHealthLack",
+			"value": "Игра окончена:\n У вас закончилось здоровье"
+		},
+		{
+			"key": "GameEndByVictory",
+			"value": "Вы победили!!!"
+		},
+		{
+			"key": "On",
+			"value": "Вкл"
+		},
+		{
+			"key": "Off",
+			"value": "Выкл"
+		},
+		{
+			"key": "HDR",
+			"value": "РДД"
+		},
+		{
+			"key": "MSAA",
+			"value": "Сглж."
+		},
+		{
+			"key": "RS",
+			"value": "Масштаб рендеринга"
+		},
+		{
+			"key": "GasLeak",
+			"value": "Произошла утечка газа"
+		},
+		{
+			"key": "ExpLight",
+			"value": "Свечение взрывов"
+		},
+		{
+			"key": "BuildingsLight",
+			"value": "Свечение зданий"
+		},
+		{
+			"key": "Graphics",
+			"value": "Графика"
+		},
+		{
+			"key": "Other",
+			"value": "Другое"
+		},
+		{
+			"key": "IncludeHints",
+			"value": "Включить подсказки"
+		},
+		{
+			"key": "Yes",
+			"value": "Да"
+		},
+		{
+			"key": "No",
+			"value": "Нет"
+		},
+		{
+			"key": "JoystickLeft",
+			"value": "Джойстик слева"
+		}
+	]
+}
